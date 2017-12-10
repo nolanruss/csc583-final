@@ -9,6 +9,7 @@ visitors for a corporation.
  - [X] Architecture Design
  - [X] Architecture Discussion
  - [X] User interface Sketches
+ - [ ] Implementation
  - [ ] Installation Instructions
 
 ## User Interface Description and Mock-up
