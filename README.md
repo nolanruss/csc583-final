@@ -18,10 +18,22 @@ The following fields will be available for the user to enter data:
 ### Mock-up of the Visitor's View
 ![Visitor's View](/mock-up/visitors_view.JPG)
 
-
 ## Admin View
 ### Description
 A password-protected admin view.  This view lists all the data entered by the Visitors as a table.
 
 ### Mock-up of the Admin View
 ![Admin View](/mock-up/admin_view.JPG)
+
+## System Architecture
+### Discussion of Technologies
+### Architecture Design
+
+## Installation Instructions
+
+## Plan of Action
+ - [ ] Nonfunctional analysis
+ - [ ] Architecture Design
+ - [ ] Architecture Discussion
+ - [X] User interface Sketches
+ - [ ] Installation Instructions
