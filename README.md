@@ -16,7 +16,7 @@ The following fields will be available for the user to enter data:
  * Escort required (checkbox)
  * Excort name (if Escort box is checked)
 ### Mock-up of the Visitor's View
-![Visitor's View](/mock-up/visitors_view.JPG)
+![Visitor's View](/mock-up/visitors_view.jpg)
 
 ## Admin View
 ### Description
