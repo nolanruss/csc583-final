@@ -16,6 +16,7 @@ The following fields will be available for the user to enter data:
  * Escort required (checkbox)
  * Excort name (if Escort box is checked)
 ### Mock-up of the Visitor's View
+![Visitor's View](/mock-up/visitors_view.JPG)
 
 
 ## Admin View
@@ -23,3 +24,4 @@ The following fields will be available for the user to enter data:
 A password-protected admin view.  This view lists all the data entered by the Visitors as a table.
 
 ### Mock-up of the Admin View
+![Admin View](/mock-up/admin_view.JPG)
