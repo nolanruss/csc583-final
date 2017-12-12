@@ -57,7 +57,6 @@ module.exports = (() => {
           visitorMap.data = visitors
           visitorMap.count = visitors.length
           res.send(visitorMap)        
-          console.log(JSON.stringify(visitorMap.data))
           //res.json({visitorMap})
         }
       })

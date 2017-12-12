@@ -1,6 +1,5 @@
 const mongoose = require('mongoose'),
       Schema = mongoose.Schema,
-      bcrypt = require('bcryptjs')
 
 var Visitor = new Schema({
   firstName: {
