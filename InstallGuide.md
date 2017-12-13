@@ -11,7 +11,7 @@ $ cd sign-in
 ```
 
 Create .env file. Add a `.env` file with your PORT, MONGO_URI, 
-[GITHUB_ID, GITHUB_SECRET and APP_URL](https://github.com/jaredhanson/passport-github) like this:
+like this:
 
 ```
 PORT=3000
