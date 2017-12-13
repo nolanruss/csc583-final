@@ -17,75 +17,72 @@
       </div>
     </nav>
     <router-view />
-    <div class="container" >
-      <h3>{{this.$data.title}}</h3>
-    </div>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'app',
-  data () {
-    return {
-      title: 'Visitor Sign In'
-    }
-  },
-}
+  export default {
+    name: 'app',
+    data () {
+      return {
+        title: 'Visitor Sign In'
+      }
+    },
+  }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: left;
-  color: #363636;
-  margin-top: 0px;
-}
+  #app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: left;
+    color: #363636;
+    margin-top: 0px;
+  }
 
-h1, h2 {
-  font-weight: normal;
-}
+  h1, h2 {
+    font-weight: normal;
+  }
 
-ul {
-  list-style-type: none;
-  padding: 0;
-}
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
 
-a {
-  color: #363636;
-}
-.btn {
-  border: 0;
-  background: #860038;
-  color: white;
-  outline: 0;
-}
-.btn:active {
-  background: #860038;
-  outline: 0;
-}
-.btn:focus {
-  background: #860038;
-  outline: 0;
-}
-.btn:active:focus {
-  background: #860038;
-  outline: 0;
-}
-.btn-default {
-  border: 0;
-  background: #860038;
-  color: white;
-}
-.btn-primary {
-  border: 0;
-  background: #860038;
-  color: white;
-}
-.btn-primary:hover {
-  background: #EFBA08;
-  color: white;
-}
+  a {
+    color: #363636;
+  }
+  .btn {
+    border: 0;
+    background: lightblue;
+    color: white;
+    outline: 0;
+  }
+  .btn:active {
+    background: lightblue;
+    outline: 0;
+  }
+  .btn:focus {
+    background: lightblue;
+    outline: 0;
+  }
+  .btn:active:focus {
+    background: lightblue;
+    outline: 0;
+  }
+  .btn-default {
+    border: 0;
+    background: lightblue;
+    color: white;
+  }
+  .btn-primary {
+    border: 0;
+    background:lightblue;
+    color: white;
+  }
+  .btn-primary:hover {
+    background: #EFBA08;
+    color: white;
+  }
 </style>
