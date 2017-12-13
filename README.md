@@ -9,8 +9,8 @@ visitors for a corporation.
  - [X] Architecture Design
  - [X] Architecture Discussion
  - [X] User interface Sketches
+ - [X] Installation Instructions
  - [ ] Implementation
- - [ ] Installation Instructions
 
 ## User Interface Description and Mock-up
 ### Visitor's View
@@ -75,3 +75,4 @@ Average    | 3.9  | 2.6              | 2.3           | 4.3  |
 
 
 ## Installation Instructions
+[](/InstallationInstructions.md)
