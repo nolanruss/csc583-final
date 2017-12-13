@@ -75,4 +75,4 @@ Average    | 3.9  | 2.6              | 2.3           | 4.3  |
 
 
 ## Installation Instructions
-[](/InstallationInstructions.md)
+[Installation Guide](/InstallGuide.md)
