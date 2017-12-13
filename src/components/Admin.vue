@@ -1,9 +1,7 @@
 <template>
   <div ><!-- v-if="this.$store.state.user.displayName">-->
     <!--<h3>Dashboard {{this.$store.state.user.displayName}}</h3>-->
-    <h4>Visitors</h4>
-    <button class="btn btn-primary" @click="viewVisitors()">View Visitors</button>
-    <button class="btn btn-primary" @click="setVisitors()">Set Visitors</button>
+    <h3>Table of Visitors</h3>
     <div id="app">
       <v-client-table :data="tableData" :columns="columns" :options="options"></v-client-table>
     </div>
