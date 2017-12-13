@@ -47,7 +47,7 @@ Run the backend using nodemon
 $ ./node_modules/nodemon/bin/nodemon.js server.js
 ```
 
-Open http://localhost:3000 in any web browser.
+Open http://localhost:4000 in any web browser.
 
 ---
 ## Vagrant Setup Instructions
