@@ -56,7 +56,7 @@
   .btn {
     border: 0;
     background: lightblue;
-    color: white;
+    color: black;
     outline: 0;
   }
   .btn:active {
@@ -74,15 +74,15 @@
   .btn-default {
     border: 0;
     background: lightblue;
-    color: white;
+    color: black;
   }
   .btn-primary {
     border: 0;
     background:lightblue;
-    color: white;
+    color: black;
   }
   .btn-primary:hover {
     background: #EFBA08;
-    color: white;
+    color: black;
   }
 </style>

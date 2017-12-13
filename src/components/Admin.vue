@@ -19,7 +19,7 @@ export default {
   data () {
     return {
       count: 3,
-      tableData: [{"_id":"5a2f70808669670f3f72c3b5","firstName":"Nolan","lastName":"Thompson","email":"nolanruss12@yahoo.com","telephone":"8585319723","company":"OK","officialVisit":true,"escortRequired":true,"escortName":"Nolan Thompson","createdOn":"2017-12-12T06:00:32.666Z","__v":0},{"_id":"5a2f71c55bb7aa0f714a9bcc","firstName":"Ok","lastName":"This ","email":"nolan@nolan.com","telephone":"A","company":"test","officialVisit":true,"escortRequired":false,"escortName":"","createdOn":"2017-12-12T06:05:57.573Z","__v":0},{"_id":"5a2f74daaec7ec0fa3bf8146","firstName":"Ok","lastName":"This","email":"Ias@las.com","telephone":"12341234","company":"a","officialVisit":true,"escortRequired":true,"escortName":"Somebody","createdOn":"2017-12-12T06:19:06.764Z","__v":0}],
+      tableData: [],
       columns:['firstName', 'lastName', 'email', 'telephone', 'company', 'officialVisit' / 
                 'escortName', 'createdOn'],
       options: {
